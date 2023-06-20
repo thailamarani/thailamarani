@@ -23,5 +23,5 @@ pronouns: "she" | "her",
   ##
   
 <div> 
-  <a href = "mailto:thaila_marani@hotmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://media.itpro.co.uk/image/upload/t_primary-image-desktop@2/v1570814230/itpro/hotmail_to_outlook.png)" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaila-marani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
