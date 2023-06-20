@@ -1,4 +1,4 @@
-### Olá! 👋
+### Welcome! 👋
 
 ~~~javascript`
 const Thaila = {
