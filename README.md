@@ -3,7 +3,7 @@
 ~~~javascript`
 const Thaila = {
 pronouns: "she" | "her",    
-    code: [HTML, CSS, HTML, Javascript, React, Typescript, Node.JS, SQL],    
+    code: [HTML, CSS, Javascript, React, Typescript, Node.JS, SQL],    
     askMeAbout: ["travel", "music", "tecnology", "family"]
 };
 
