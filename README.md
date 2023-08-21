@@ -33,10 +33,8 @@ pronouns: "she" | "her",
 
 ###
 
-<div align="left">
-  <img src="https://www.linkedin.com/in/thaila-marani/" width="52" height="40" alt="linkedin logo"  />
-  <img src="thaila_marani@hotmail.com" width="52" height="40" alt="gmail logo"  />
-  <img src="https://www.facebook.com/thaila.mg" width="52" height="40" alt="facebook logo"  />
+<div> 
+  <a href="https://www.linkedin.com/in/thaila-marani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
